@@ -32,17 +32,6 @@ Modern, responsive landing page for Mass Report Bot service supporting multiple 
 - Font Awesome for icons
 - Responsive design principles
 
-## 🌐 GitHub Pages Deployment
-
-This site is designed to be hosted on GitHub Pages. To deploy:
-
-1. Push this repository to GitHub
-2. Go to repository settings
-3. Navigate to "Pages" section
-4. Set source branch to "main" and folder to "/(root)"
-5. Save the settings and wait for deployment
-
-The site will be available at: `https://[your-username].github.io/[repository-name]/`
 
 ## 🔍 SEO Keywords
 
